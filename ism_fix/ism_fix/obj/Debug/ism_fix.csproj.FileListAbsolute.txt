@@ -1,0 +1,6 @@
+c:\users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\bin\Debug\ism_fix.exe.config
+c:\users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\bin\Debug\ism_fix.exe
+c:\users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\bin\Debug\ism_fix.pdb
+c:\users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\obj\Debug\ism_fix.exe
+c:\users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\obj\Debug\ism_fix.pdb
+C:\Users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\obj\Debug\ism_fix.csprojResolveAssemblyReference.cache

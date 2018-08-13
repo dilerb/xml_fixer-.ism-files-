@@ -1,0 +1,5 @@
+C:\Users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\bin\Release\ism_fix.exe.config
+C:\Users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\bin\Release\ism_fix.exe
+C:\Users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\bin\Release\ism_fix.pdb
+C:\Users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\obj\Release\ism_fix.exe
+C:\Users\babil\documents\visual studio 2015\Projects\ism_fix\ism_fix\obj\Release\ism_fix.pdb
